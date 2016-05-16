@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-05-15T15:49:23</date>
+  <millis>1463316563660</millis>
+  <sequence>0</sequence>
+  <logger>callcenter.client.ClientController</logger>
+  <level>INFO</level>
+  <class>callcenter.client.ClientController</class>
+  <method>go</method>
+  <thread>1</thread>
+  <message>Successful authentication.</message>
+</record>
